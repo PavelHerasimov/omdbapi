@@ -1,0 +1,17 @@
+{
+  "name": "omdbapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/ --timeout 450000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "chai": "4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
